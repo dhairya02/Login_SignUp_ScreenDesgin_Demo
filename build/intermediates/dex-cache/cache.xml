@@ -3,39 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Sonu/.android/build-cache/204c4bf30e8b9dd597e2367d3fd0f16da4d33036/output/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/Sonu/Documents/AndroidWorkspace/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_bd7eb485299e9898ef545a7b9b165d375c0c3dfe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Sonu/.android/build-cache/204c4bf30e8b9dd597e2367d3fd0f16da4d33036/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/Sonu/Documents/AndroidWorkspace/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_3f160605c67c331e6a042816af826f91311d178a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Sonu/.android/build-cache/83ce70d2e27e91f606eec9406c0566e88fad1a48/output/jars/classes.jar"
+        jar="C:\Users\abhis\.android\build-cache\41a7cfc87e2920085a51c88f865b6fb9410e2f5a\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/Sonu/Documents/AndroidWorkspace/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_571b5d205482730f85979f863f88c6ba11ce145b.jar" />
+        <dex dex="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\classes_515a146d278606454ead80c92397c45f4ffeb1cb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Sonu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jar="C:\Users\abhis\.android\build-cache\78257609ece86c265caaef3242e0ed8588cadb7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\classes_65be473c6102dcb3010120ef48d07b073b635783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/Sonu/Documents/AndroidWorkspace/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_24f243f2b3343eeeab1bf41ac487b5630f781baa.jar" />
+        <dex dex="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_84c382a33c1333b03f46650a36cd50440c71b03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\abhis\.android\build-cache\78257609ece86c265caaef3242e0ed8588cadb7f\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_2ee961f6c780c3f9c92443c5a081152e6e5255c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_172599ebe5794e6d905f11e7dd8009aef684ce7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04bc0e5ef393f34a83dd893fa684561f82fccbcc">
+        <dex dex="C:\Users\abhis\Downloads\Android\Login_SignUp_ScreenDesgin_Demo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_772cda2fb1f7e5e9f59e93576be726df177af8de\classes.dex" />
     </item>
 
 </items>

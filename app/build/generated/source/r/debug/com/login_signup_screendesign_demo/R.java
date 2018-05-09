@@ -1535,17 +1535,18 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020039;
         public static final int abc_textfield_search_material=0x7f02003a;
         public static final int close=0x7f02003b;
-        public static final int confirm_password=0x7f02003c;
-        public static final int email=0x7f02003d;
-        public static final int error=0x7f02003e;
-        public static final int ic_launcher=0x7f02003f;
-        public static final int location=0x7f020040;
-        public static final int loginbutton_selector=0x7f020041;
-        public static final int notification_template_icon_bg=0x7f020046;
-        public static final int password=0x7f020042;
-        public static final int phone=0x7f020043;
-        public static final int text_selector=0x7f020044;
-        public static final int user=0x7f020045;
+        public static final int colorsplash=0x7f02003c;
+        public static final int confirm_password=0x7f02003d;
+        public static final int email=0x7f02003e;
+        public static final int error=0x7f02003f;
+        public static final int ic_launcher=0x7f020040;
+        public static final int location=0x7f020041;
+        public static final int loginbutton_selector=0x7f020042;
+        public static final int notification_template_icon_bg=0x7f020047;
+        public static final int password=0x7f020043;
+        public static final int phone=0x7f020044;
+        public static final int text_selector=0x7f020045;
+        public static final int user=0x7f020046;
     }
     public static final class id {
         public static final int action0=0x7f0b005d;
